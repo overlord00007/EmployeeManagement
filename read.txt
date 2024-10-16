@@ -1,0 +1,2 @@
+This Emplpyee management project showcases key OOP concepts, including abstract classes, inheritance, and polymorphism, with dynamic memory allocation.
+It features a menu-driven system to manage visiting and permanent employees, with added functionality to select day or night office shifts.
